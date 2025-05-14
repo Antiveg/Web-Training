@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">
-            2702210680 - Stanic Dylan
+            2702210680 - Dylan
           </li>
         </ol>
 
