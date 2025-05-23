@@ -21,6 +21,7 @@ export default function AppLayout({
     { name: "Home", link: "/" },
     { name: "About", link: "/about" },
     { name: "Project", link: "/project" },
+    { name: "Weather", link: "/weather" }
   ]
 
   return (
